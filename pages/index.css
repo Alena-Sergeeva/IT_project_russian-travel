@@ -9,3 +9,5 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__ul_links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/__lang-link_temp/header__lang-link_tepm.css);
+
+@import url(../blocks/lead/__images/lead__images.css);
