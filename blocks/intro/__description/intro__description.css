@@ -1,0 +1,21 @@
+.intro__description {
+    margin: 0 0 33px 0;
+    padding: 0;
+    max-width: 690px;
+    font-size: 16px;
+    line-height: 163%;
+}
+
+@media screen and (max-width: 950px) {
+    .intro__description {
+        max-width: 720px;
+    }
+}
+
+/* Стили расширениия (Mobile) */
+@media screen and (max-width: 375px) {
+    .intro__description {
+        max-width: 288px;
+        margin: 0 0 34px 0;
+    }
+}
