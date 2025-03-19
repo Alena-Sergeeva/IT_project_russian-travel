@@ -4,7 +4,7 @@
 
 ## Проект «Путешествие по России»  
 
-[Посмотреть проект](file://wsl.localhost/Ubuntu-22.04/home/ali_/IT_project_russian-travel/IT_project_russian-travel/index.html)
+[Посмотреть проект](https://alena-sergeeva.github.io/IT_project_russian-travel/)
 
 #### Стек технологий
 
