@@ -1,31 +1,22 @@
-.intro {
-    max-width: 984px;
-    margin: 0 auto 92px auto;
+.intro__title {
+    margin: 0 0 40px 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    max-width: 690px;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
 }
 
-/* Стили для иного расширениия */
-@media screen and (max-width: 1250px) {
-    .intro {
-        max-width: 928px;
-    }
-}
-
-/* Стили для иного расширениия */
 @media screen and (max-width: 950px) {
-    .intro {
-        max-width: 720px;
-        margin: 0 24px 88px 24px;
+    .intro__title {
+        max-width: 100%;
     }
 }
 
-/* Стили для иного расширениия (Mobile) */
 @media screen and (max-width: 375px) {
-    .intro {
+    .intro__title {
         max-width: 288px;
-        margin: 0 16px 64px 16px;
+        font-size: 32px;
+        line-height: 35px;
     }
 }
