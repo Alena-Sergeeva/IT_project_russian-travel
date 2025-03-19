@@ -1,4 +1,4 @@
-.cover__wrapper {
+.end__wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -12,6 +12,6 @@
     transition: all 0.8s ease-in-out;
 }
 
-.cover__wrapper:hover {
+.end__wrapper:hover {
     background-color: rgba(42, 44, 47, .8);
 }
